@@ -1,9 +1,8 @@
 # 💫 About Me:
 Hello, I am Abdullah Al Mahmud. My Nickname is Araf. 
 I am a CSE student and focused mostly on Backend development.
----
+
 [![](https://visitcount.itsvg.in/api?id=Mahmud-Araf&icon=5&color=1)](https://visitcount.itsvg.in)
----
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahmud.araf.33) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-al-mahmud-5074b7224) 
