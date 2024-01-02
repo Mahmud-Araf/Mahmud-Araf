@@ -1,6 +1,7 @@
 # 💫 About Me:
-Hello, I am Abdullah Al Mahmud. My Nickname is Araf. 
+<h2>Hello, I am Abdullah Al Mahmud. My Nickname is Araf. 
 I am a CSE student and focused mostly on Backend development.
+</h2>
 
 [![](https://visitcount.itsvg.in/api?id=Mahmud-Araf&icon=5&color=1)](https://visitcount.itsvg.in)
 
