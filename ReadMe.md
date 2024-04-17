@@ -3,6 +3,9 @@
 I am a CSE student and focused mostly on Backend development.
 </h2>
 
+![watchers](https://img.shields.io/github/watchers/Mahmud-Araf/Mahmud-Araf?style=flat-square&color=blue)
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahmud.araf.33) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-al-mahmud-5074b7224) 
 
