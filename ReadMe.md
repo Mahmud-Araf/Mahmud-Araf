@@ -4,7 +4,7 @@ Hello, I am Abdullah Al Mahmud. My Nickname is Araf.
 I am a CSE student and focused mostly on Backend development.
 </h2>
 
-![profile views](https://komarev.com/ghpvc/?username=Mahmud-Araf&label=Profile%20views&color=0e75b6&style=flat-square)
+![profile views](https://komarev.com/ghpvc/?username=Mahmud-Araf&label=profile%20views&color=0e75b6&style=flat-square)
 ![watchers](https://img.shields.io/github/watchers/Mahmud-Araf/Mahmud-Araf?style=flat-square&color=blue)
 
 
