@@ -19,6 +19,8 @@ I am a CSE student and focused mostly on Backend development.
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white&color=yellow)
+![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=nextdotjs&logoColor=black&color=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwindcss&logoColor=%2300FFFF&color=white)
 ![SDL2](https://img.shields.io/badge/SDL2-white?style=for-the-badge&color=blue)
 ![JavaFX](https://img.shields.io/badge/JavaFX-white?style=for-the-badge&logo=openjdk&color=blue)
