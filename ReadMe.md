@@ -1,7 +1,7 @@
 # 💫 About Me:
 <h2>
 Hello, I am Abdullah Al Mahmud. My Nickname is Araf. 
-I am a CSE student and focused mostly on Backend development.
+I am a CSE student and focused mostly on Web development.
 </h2>
 
 ![profile views](https://komarev.com/ghpvc/?username=Mahmud-Araf&label=profile%20views&color=0e75b6&style=flat-square)
