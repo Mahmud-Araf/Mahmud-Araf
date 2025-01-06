@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! 👋 I'm Abdullah Al Mahmud (Araf), an enthusiastic Computer Science & Engineering student with a deep passion for web development and technology innovation. I thrive on building robust full-stack solutions using cutting-edge technologies like Next.js, React, Spring Boot, and FastAPI. What really gets me excited is participating in hackathons and turning innovative ideas into reality through exciting projects. I'm constantly exploring new technologies and pushing my boundaries to create impactful solutions.
+Hey there! 👋 I'm <b>Abdullah Al Mahmud (Araf)</b>, an enthusiastic Computer Science & Engineering student with a deep passion for web development and technology innovation. I thrive on building robust full-stack solutions using cutting-edge technologies like Next.js, React, Spring Boot, and FastAPI. What really gets me excited is participating in hackathons and turning innovative ideas into reality through exciting projects. I'm constantly exploring new technologies and pushing my boundaries to create impactful solutions.
 
 ![profile views](https://komarev.com/ghpvc/?username=Mahmud-Araf&label=profile%20views&color=0e75b6&style=for-the-badge)
 ![watchers](https://img.shields.io/github/watchers/Mahmud-Araf/Mahmud-Araf?style=for-the-badge&color=blue)
