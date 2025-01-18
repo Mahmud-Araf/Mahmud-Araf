@@ -62,9 +62,9 @@ Hey there! 👋 I'm <b>Abdullah Al Mahmud (Araf)</b>, an enthusiastic Computer S
 
 
 # 📊 GitHub Stats:
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahmud-Araf&theme=tokyonight&hide_border=false&count_private=true)<br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahmud-Araf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br>
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mahmud-Araf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mahmud-Araf&theme=tokyonight&hide_border=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mahmud-Araf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mahmud-Araf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
