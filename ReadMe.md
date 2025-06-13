@@ -1,6 +1,26 @@
 # 💫 About Me:
 
-Hey there! 👋 I'm <b>Abdullah Al Mahmud (Araf)</b>, an enthusiastic Computer Science & Engineering student with a deep passion for web development and technology innovation. I thrive on building robust full-stack solutions using cutting-edge technologies like Next.js, React, Spring Boot, and FastAPI. What really gets me excited is participating in hackathons and turning innovative ideas into reality through exciting projects. I'm constantly exploring new technologies and pushing my boundaries to create impactful solutions.
+🌐 **Website:** [www.abdullahalmahmud.com](https://www.abdullahalmahmud.com)
+
+Hi, I'm **Abdullah Al Mahmud**, but you can call me **Araf**. I'm currently pursuing my undergraduate degree in Computer Science and Engineering (CSE) at the University of Dhaka.
+
+I am a developer with a diverse and adaptable skillset, dedicated to building reliable and user-friendly digital solutions. My work is driven by a strong interest in solving real-world problems and creating applications that are both practical and easy to use.
+
+I have experience across the full stack of development. On the frontend, I use Next.js to build modern, responsive web interfaces that focus on performance and usability. On the backend, I develop scalable and secure APIs using Spring Boot and FastAPI, ensuring efficient communication between systems.
+
+In addition to web development, I use Capacitor to create mobile applications from web technologies, allowing for consistent experiences across devices.
+
+For database management, I work with MySQL and PostgreSQL for structured data, and Firebase for real-time and NoSQL data needs.
+
+I am also skilled in DevOps practices, using tools like Docker for containerization and GitHub Actions for setting up continuous integration and deployment pipelines. I have experience working with AWS to manage cloud infrastructure, deploy applications, and ensure reliability and scalability.
+
+I have extensive experience integrating AI and machine learning technologies into applications, working with OpenAI's GPT models, Google Gemini, and advanced frameworks like LangChain and LangGraph to build intelligent solutions that enhance user experiences and automate complex processes.
+
+I am always eager to learn new technologies and improve my skills. I actively take part in hackathons, where I've had the opportunity to test my abilities in high-pressure environments including achieving awards in multiple national-level hackathons.
+
+I believe in using technology to make a meaningful impact, and I'm committed to building applications that are efficient, well-designed, and easy to use.
+
+**Let's build something great together!**
 
 ![profile views](https://komarev.com/ghpvc/?username=Mahmud-Araf&label=profile%20views&color=0e75b6&style=for-the-badge)
 ![watchers](https://img.shields.io/github/watchers/Mahmud-Araf/Mahmud-Araf?style=for-the-badge&color=blue)
