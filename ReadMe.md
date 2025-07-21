@@ -1,6 +1,15 @@
-# 💫 About Me:
+# 👋 Hi, I am Abdullah Al Mahmud (Araf)
 
-🌐 **Website:** [www.abdullahalmahmud.com](https://www.abdullahalmahmud.com)
+*Passionate Full Stack Developer | AI & ML Enthusiast | Building impactful digital solutions*
+
+
+![profile views](https://komarev.com/ghpvc/?username=Mahmud-Araf&label=profile%20views&color=0e75b6&style=for-the-badge)
+![watchers](https://img.shields.io/github/watchers/Mahmud-Araf/Mahmud-Araf?style=for-the-badge&color=blue)
+
+## 🌐 Website:
+[www.abdullahalmahmud.com](https://www.abdullahalmahmud.com)
+
+## 💫 About Me:
 
 Hi, I'm **Abdullah Al Mahmud**, but you can call me **Araf**. I'm currently pursuing my undergraduate degree in Computer Science and Engineering (CSE) at the University of Dhaka.
 
@@ -22,16 +31,13 @@ I believe in using technology to make a meaningful impact, and I'm committed to 
 
 **Let's build something great together!**
 
-![profile views](https://komarev.com/ghpvc/?username=Mahmud-Araf&label=profile%20views&color=0e75b6&style=for-the-badge)
-![watchers](https://img.shields.io/github/watchers/Mahmud-Araf/Mahmud-Araf?style=for-the-badge&color=blue)
-
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-al-mahmud-5074b7224)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:almahmudaraf@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mahmud.araf.33)
 
-# ⚡ Tech Stack:
+## ⚡ Tech Stack:
 
 ### 👨‍💻 Programming Languages
 
@@ -98,7 +104,7 @@ I believe in using technology to make a meaningful impact, and I'm committed to 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 ![github-profile-summary-card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahmud-Araf&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true)<br>
 ![github-readme-stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mahmud-Araf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
