@@ -109,7 +109,7 @@ I believe in using technology to make a meaningful impact, and I'm committed to 
 ![github-profile-summary-card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahmud-Araf&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true)<br>
 
 <!--![github-readme-stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mahmud-Araf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/> -->
-![github-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=Mahmud-Araf&theme=tokyonight&hide_border=false)<br>
+![github-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=Mahmud-Araf&theme=tokyonight&hide_border=true)<br>
 <!--![github-top-langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mahmud-Araf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
 
 ---
